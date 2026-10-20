@@ -1,3 +1,5 @@
+#import menu
+
 # The menu and prices stay the same
 menu_items = ["Coffee", "Tea", "Muffin"]
 prices = [3, 2, 4]
